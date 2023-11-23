@@ -1,16 +1,3 @@
 [
-  {
-    "name": "theme_info",
-    "theme_name": "Media Theme",
-    "theme_version": "1.0.0",
-    "theme_author": "William Gregorio"
-  },
-  {
-    "settings": [
-      "type": "color",
-      "id": "main_color",
-      "label": "Main Color",
-      "default": "#181818",
-    ]
-  }
+
 ]
